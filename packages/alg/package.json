@@ -2,7 +2,7 @@
   "private": true,
   "scripts": {
     "dev": "slidev --open",
-    "build": "slidev build --base notes/packages/alg",
+    "build": "slidev build --base notes/packages/alg/dist",
     "export": "slidev export"
   },
   "dependencies": {
